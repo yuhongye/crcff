@@ -1,2 +1,2 @@
 # crcff
-mixed row column file format for distributed data
+crcff是一个混合行列式文件存储系统。这个项目基于orc，主要是为了改进orc的可读性，同时优化部分类型的编码性能。
